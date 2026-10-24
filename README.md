@@ -52,7 +52,7 @@ Building at the intersection of AI, security, and full-stack engineering
 
 | Project | Stack | Highlight |
 |---|---|---|
-| 🪞 [DressFit](https://github.com/ssrivarsha06/DOSC-Dressfit) | React · Flask · Three.js · Blender | 3D avatar try-on, ~50% better fit accuracy *(in progress)* |
+| 🪞 [DressFit](https://github.com/ssrivarsha06/ai-virtual-tryon) | React · Flask · Three.js · Blender | 3D avatar try-on, ~50% better fit accuracy *(in progress)* |
 | 🔐 [Solidus](https://github.com/ssrivarsha06/solidus) | Solidity · Hardhat · Ethers.js | On-chain identity with ZK proofs — **IEEE InC4 2026** |
 | 🧬 [Fractal Auth](https://github.com/ssrivarsha06/fractal) | Python · ML · Behavioral Analytics | Adaptive authentication via fractal geometry — **patent filed** |
 | 🎙️ [PodcastGenie](https://github.com/ssrivarsha06/podcastgenie) | Python · GPT-4o · Streamlit | Automated 90% of dual-voice podcast scripting |
